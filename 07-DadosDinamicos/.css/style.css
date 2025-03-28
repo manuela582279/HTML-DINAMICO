@@ -1,0 +1,38 @@
+body {
+    /*zerando configuracoes css */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  
+    /* cor */
+    background-color: rgb(244, 211, 240);
+  
+    /* alinhamento */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  #btnAtualizar {
+    width: 200px;
+    padding: 5px;
+    margin: 25px 5px;
+  }
+  
+  th {
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    background-color: rgb(232, 118, 215);
+    min-width: 300px;
+  }
+  
+  tr {
+    text-align: center;
+    background-color: rgb(244, 165, 234);
+  }
+  .listra {
+    background-color: rgb(232, 118, 215);
+  }
+  

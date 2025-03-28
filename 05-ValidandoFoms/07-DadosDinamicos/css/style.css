@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /*cor*/
+    background-color: #d7b3ed;
+
+    /*alinhamento*/
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#btAtualizar{
+    width:200px;
+    padding:5px;
+    margin: 25px 5px;
+}
+
+th{
+    font-size: 20px;
+}
